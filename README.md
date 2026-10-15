@@ -1,7 +1,7 @@
 ---
 name: theoriturgy
 description: "Use when producing or validating a theory, doctrine, or methodology claim within the LGD system; also as the production protocol for new theory assets. 当需要生产或验证 LGD 体系内的理论、学说或方法论主张时使用；亦是新理论资产的生成协议。"
-license: ARR
+license: apache-2.0
 type: term-registration
 namespace: lgd.terms
 version: v1.1
