@@ -1,22 +1,55 @@
+---
+name: theoriturgy
+description: "Use when producing or validating a theory, doctrine, or methodology claim within the LGD system; also as the production protocol for new theory assets. 当需要生产或验证 LGD 体系内的理论、学说或方法论主张时使用；亦是新理论资产的生成协议。"
+license: ARR
+type: term-registration
+namespace: lgd.terms
+version: v1.1
+registered_at: 2026-10-15
+doi: https://doi.org/10.5281/zenodo.23385209
+family: meta-layer-creation
+related: [lgd-doctrine]
+---
+
 # Theoriturgy · 理论工程术
 
-> 主张：理论生产是工程——选题 → 查重 → 注册 → 锚定 → 实证 → 传播 → 演进
-> 家族：LGD 创造术元层（-urgy）｜ 状态：命名注册（查重全维度 0 占用，R1+R2）
+> Term Registration Claim · Registered: 2026-10-15 ｜ 命名注册声明 · 注册日期：2026-10-15
+> System: Lifecycle Governance Doctrine (LGD) · LGD Meta-Layer Creation Family (-urgy) ｜ 所属体系：LGD 治理学 · LGD 元层创造术家族（-urgy）
 
-## 定义
-创造理论的方法论纪律：理论不是灵感产物，是可复放的生产流程。每个理论必须有籍（命名注册）、有证（实证与反例记录）、有门禁（发布前查重与验证）。
+## When to use / 何时使用
 
-## 五阶段
-1. 选题（缺口识别）
-2. 查重（多轮多维度，10 维度 × R1-R3）
-3. 注册（README + .ots 时间戳 + DOI）
-4. 锚定（公开通道：ITU/IETF/标准）
-5. 演进（实证反馈 → 版本升级，自举）
+**EN**
+Use when producing or validating a theory, doctrine, or methodology claim within the LGD system; also as the production protocol for new theory assets.
 
-## 与"theory engineering"的区隔
-"theory engineering"（形式化验证：FlySpeck/Isabelle-UTP）是机器证明技术；Theoriturgy 是社会性理论创造方法论——对象是治理、标准、技能等社会-技术系统，产出是主张 + 证据 + 门禁。
+**ZH**
+当需要生产或验证 LGD 体系内的理论、学说或方法论主张时使用；亦是新理论资产的生成协议。
 
-## 证据
-- 查重报告 v2（OpenAlex/arXiv/GitHub/npm/PyPI/Crossref/域名/变体全 0）
-- 实例：LGD 三律即由本方法生产（lgd-theory 仓）
-- LICENSE：理论主张保留所有权利（ARR）；文档 Apache-2.0
+## Definition / 定义
+
+**EN**
+Theoriturgy is the disciplined methodology for producing theories. A theory is not an inspired artifact but a reproducible production flow. Every theory must be Registered (named identity), Verified (empirical support and recorded counter-evidence), and Gated (prior-art search and validation before release). Production flow: topic selection, prior-art search, registration, anchoring, empirical validation, dissemination, evolution.
+
+**ZH**
+理论工程术是创造理论的方法论纪律：理论不是灵感产物，而是可复放的生产流程。每个理论必须有籍（命名注册）、有证（实证与反例记录）、有门禁（发布前查重与验证）。生产流程：选题 → 查重 → 注册 → 锚定 → 实证 → 传播 → 演进。
+
+## Verification / 查重与验证
+
+**EN**
+Multi-round, multi-dimensional prior-art search (academic/code/package/domain/variant/phrase) completed; zero conflicts across all dimensions (R1+R2, 2026-10-14). Distinguished from formal-verification 'theory engineering': Theoriturgy targets the social-technical production of governance, standards and skills.
+
+**ZH**
+已执行多轮全维度查重（学术/代码/包/域名/变体/短语），全维度 0 占用（R1+R2，2026-10-14）。与形式化验证的 theory engineering 区隔：Theoriturgy 面向治理、标准、技能等社会-技术系统的理论创造。
+
+## Rights / 权利声明
+
+**EN**
+Theory claims: All Rights Reserved (ARR). Future code examples: Apache-2.0/MIT layered.
+
+**ZH**
+理论主张保留所有权利（ARR）；未来代码示例 Apache-2.0/MIT 分层。
+
+## Links / 链接
+
+- GitHub: https://github.com/zhaoxinghua09-cell/theoriturgy
+- DOI: https://doi.org/10.5281/zenodo.23385209
+- Registry index: https://github.com/zhaoxinghua09-cell/placeholdurgy
