@@ -1,14 +1,33 @@
 # theoriturgy
 
-> LGD-aligned asset. Four-angle score: LGD 82/100 (REG 80/TRUST 80/SAFE 100/MACH 66).
+> LGD-aligned term-registration asset. Four-angle score: LGD 82/100.
+> The disciplined methodology for producing theories: a reproducible production flow governed by three laws (Registered/Verified/Gated).
+
+## What this is
+
+`theoriturgy` is a **term-registration** claim in the LGD naming system (meta-layer-creation family). It registers the term *theoriturgy* — theory as a reproducible production flow (topic → prior-art → registration → anchoring → empirical validation → dissemination → evolution), not inspiration.
+
+## Core files
+
+- [README.md](https://github.com/zhaoxinghua09-cell/theoriturgy/blob/main/README.md): bilingual term document
+- [README.en.md](https://github.com/zhaoxinghua09-cell/theoriturgy/blob/main/README.en.md): English face
+- [AGENTS.md](https://github.com/zhaoxinghua09-cell/theoriturgy/blob/main/AGENTS.md): machine facts + guardrails
+- [CITATION.cff](https://github.com/zhaoxinghua09-cell/theoriturgy/blob/main/CITATION.cff): citation metadata
+- [codemeta.json](https://github.com/zhaoxinghua09-cell/theoriturgy/blob/main/codemeta.json): schema.org metadata
+- [llms-full.txt](https://github.com/zhaoxinghua09-cell/theoriturgy/blob/main/llms-full.txt): full text
+- [SECURITY.md](https://github.com/zhaoxinghua09-cell/theoriturgy/blob/main/SECURITY.md): security policy
+- [CONTRIBUTING.md](https://github.com/zhaoxinghua09-cell/theoriturgy/blob/main/CONTRIBUTING.md): errata guide
+- [LICENSE](https://github.com/zhaoxinghua09-cell/theoriturgy/blob/main/LICENSE): Apache-2.0 (future code)
 
 ## Ecosystem
+
 - awesome-trusted-agents: https://github.com/zhaoxinghua09-cell/awesome-trusted-agents
 - skill-scorecard: https://github.com/zhaoxinghua09-cell/skill-scorecard
 - lgd-hub: https://github.com/zhaoxinghua09-cell/lgd-hub
 - theoriturgy: https://github.com/zhaoxinghua09-cell/theoriturgy
 
 ## Identity & Archive
+
 - ORCID: https://orcid.org/0009-0001-0512-1237
 - Zenodo: https://doi.org/10.5281/zenodo.23385209
 - Software Heritage: https://archive.softwareheritage.org/browse/origin/?origin_url=https%3A%2F%2Fgithub.com%2Fzhaoxinghua09-cell%2Ftheoriturgy

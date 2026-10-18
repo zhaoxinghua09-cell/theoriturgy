@@ -1,0 +1,43 @@
+# theoriturgy — 完整文本 / Full text
+
+本文件为 llms.txt 标准的「完整版」，供长上下文模型一次性读取。
+This is the llms.txt "full" variant for long-context models.
+
+## 这是什么 / What this is
+
+`theoriturgy` 是 LGD 命名体系下的一项**术语注册**声明，注册术语 *theoriturgy*——创造理论的方法论纪律。理论不是灵感产物，而是可复放的生产流程。
+
+## 生产流程 / Production flow
+
+选题 → 查重 → 注册 → 锚定 → 实证 → 传播 → 演进。
+
+三律：有籍（命名注册）、有证（实证与反例记录）、有门禁（发布前查重与验证）。
+
+## 解决什么问题 / What it solves
+
+1. 理论被当成灵感产物，不可复放。
+2. 只有支持证据、不记录反例，选择性举证。
+3. 理论发布前不查重、不验证，与既有理论冲突。
+4. 与形式化验证的 theory engineering 混淆：本仓面向治理、标准、技能等社会-技术系统的理论创造。
+
+## 快速开始 / Quick start
+
+```bash
+git clone https://github.com/zhaoxinghua09-cell/theoriturgy.git
+cd theoriturgy
+sed -n '1,12p' README.md
+```
+
+## 触发词 / Trigger words
+
+理论生产 / 理论创造 / 学说方法论 / 反例记录 / 发布前查重 / theory production / methodology claim / prior-art search / doctrine。
+
+## 许可与权利 / License & rights
+
+根目录 [LICENSE](LICENSE) 为 **Apache-2.0**（覆盖未来代码示例）；理论文本主张 **ARR**，允许注明出处引用。引用：`CITATION.cff` + DOI `10.5281/zenodo.23385209`。联系：zhaoxinghua09@gmail.com ｜ ORCID `0009-0001-0512-1237`。
+
+## 链接 / Links
+
+- 仓库: https://github.com/zhaoxinghua09-cell/theoriturgy
+- DOI: https://doi.org/10.5281/zenodo.23385209
+- 注册索引: https://github.com/zhaoxinghua09-cell/placeholdurgy
